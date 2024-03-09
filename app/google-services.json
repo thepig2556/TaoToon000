@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859254942091",
+    "project_id": "user-f2775",
+    "storage_bucket": "user-f2775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859254942091:android:cf30eab2110ac2a140a78e",
+        "android_client_info": {
+          "package_name": "com.example.taotoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-1AqgI9O6T_TEQ1fUc8tQaMjhwYzpDxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
